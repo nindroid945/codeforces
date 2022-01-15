@@ -1,2 +1,0 @@
-# codeforces
-code forces practice
